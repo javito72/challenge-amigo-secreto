@@ -63,10 +63,10 @@ amigo-secreto/
 ### Opción 1: Clonar el repositorio
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/javito72/challenge-amigo-secreto
 
 # Navegar al directorio
-cd amigo-secreto
+cd challenge-amigo-secreto
 
 # Abrir index.html en tu navegador favorito
 ```
@@ -160,17 +160,13 @@ El código está estructurado para fácil extensión:
 - 💾 Persistencia de datos local
 - 🎨 Temas personalizables
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]** - *Desarrollador Full Stack*
+**Christian Javier Lemos** - *Desarrollador Full Stack*
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
+- GitHub: [@javito72](https://github.com/javito72)
+- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/christian-javier-lemos)
 
 ## 🙏 Agradecimientos
 
@@ -204,7 +200,7 @@ Si encuentras algún bug o tienes sugerencias:
 
 ## 🔄 Changelog
 
-### v1.0.0 (2025-01-XX)
+### v1.0.0 (02-08-2025)
 - ✅ Funcionalidad básica de sorteo
 - ✅ Interfaz responsive
 - ✅ Validaciones de entrada
