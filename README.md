@@ -18,7 +18,7 @@ Una aplicación web interactiva para organizar sorteos de amigo secreto de maner
 
 ## 🚀 Demo
 
-[Ver Demo en Vivo](#) <!-- Agregar enlace cuando esté desplegado -->
+[Ver Demo en Vivo](https://javito72.github.io/challenge-amigo-secreto/)
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -101,7 +101,7 @@ El proyecto puede desplegarse fácilmente en:
 1. Sube el código a un repositorio de GitHub
 2. Ve a Settings → Pages
 3. Selecciona la rama main como fuente
-4. Tu aplicación estará disponible en `https://tu-usuario.github.io/amigo-secreto`
+4. Tu aplicación estará disponible en `https://github.com/javito72/challenge-amigo-secreto`
 
 ## 🔧 Funcionalidades Técnicas
 
@@ -166,7 +166,7 @@ El código está estructurado para fácil extensión:
 **Christian Javier Lemos** - *Desarrollador Full Stack*
 
 - GitHub: [@javito72](https://github.com/javito72)
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/christian-javier-lemos)
+- LinkedIn: [christian-javier-lemos](https://www.linkedin.com/in/christian-javier-lemos)
 
 ## 🙏 Agradecimientos
 
